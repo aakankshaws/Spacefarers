@@ -1,0 +1,6 @@
+ID,name,stardustCollection,wormholeNavigationSkill_code,originPlanet,spacesuitColor,department_ID,position_ID,email,createdAt,createdBy,modifiedAt,modifiedBy
+1a2b3c4d-1111-1111-1111-aaaaaaaaaaaa,Lyra Starborn,120,ADVANCED,Planet X,Nebula Blue,aaaaaaa1-aaaa-aaaa-aaaa-aaaaaaaaaaaa,bbbbbbb1-bbbb-bbbb-bbbb-bbbbbbbbbbbb,lyra.starborn@galacticmail.com,2025-07-01T10:15:00Z,admin,2025-07-10T14:00:00Z,system
+2b3c4d5e-2222-2222-2222-bbbbbbbbbbbb,Orion Vex,200,EXPERT,Planet Y,Galactic Grey,aaaaaaa2-aaaa-aaaa-aaaa-aaaaaaaaaaaa,bbbbbbb2-bbbb-bbbb-bbbb-bbbbbbbbbbbb,orion.vex@galacticmail.com,2025-07-02T11:30:00Z,admin,2025-07-11T16:30:00Z,system
+3c4d5e6f-3333-3333-3333-cccccccccccc,Nova Xel,180,EXPERT,Planet X,Quantum Purple,aaaaaaa3-aaaa-aaaa-aaaa-aaaaaaaaaaaa,bbbbbbb3-bbbb-bbbb-bbbb-bbbbbbbbbbbb,nova.xel@galacticmail.com,2025-07-03T13:45:00Z,admin,2025-07-12T09:45:00Z,system
+4d5e6f7g-4444-4444-4444-dddddddddddd,Rion Mave,140,INTERMEDIATE,Planet X,Stellar Silver,aaaaaaa1-aaaa-aaaa-aaaa-aaaaaaaaaaaa,bbbbbbb1-bbbb-bbbb-bbbb-bbbbbbbbbbbb,rion.mave@galacticmail.com,2025-07-04T08:20:00Z,admin,2025-07-13T10:10:00Z,system
+5e6f7g8h-5555-5555-5555-eeeeeeeeeeee,Elara Dune,160,ADVANCED,Planet Y,Cosmic Coral,aaaaaaa2-aaaa-aaaa-aaaa-aaaaaaaaaaaa,bbbbbbb2-bbbb-bbbb-bbbb-bbbbbbbbbbbb,elara.dune@galacticmail.com,2025-07-05T09:55:00Z,admin,2025-07-14T11:25:00Z,system
